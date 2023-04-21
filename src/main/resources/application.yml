@@ -1,0 +1,6 @@
+spring:
+  ldap:
+    urls: ldap://10.8.5.155:389/
+    base: dc=maslong,dc=com
+    username: uid=xiaozz,ou=users
+    password: 123456
